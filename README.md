@@ -1,4 +1,4 @@
-# Article Templates for Mobile Apps
+# Article Templates for Mobile Apps.
 [![npm version](https://badge.fury.io/js/%40guardian%2Fmobile-apps-article-templates.svg)](https://badge.fury.io/js/%40guardian%2Fmobile-apps-article-templates)
 
 Article templates used within the Guardian’s next-generation iOS and Android applications. This repo also contains documentation that describes the components and layouts used across these templates.
